@@ -35,7 +35,8 @@ Another reason why I chose Flexmonster is that I can use Flexmonster CLI to conv
 
 In this tutorial, we will create both, client and server. Client using Angular and reporting libraries and server using Express.js and Node.js.
 
-![Angular dashboard with pivot table anf charts](https://imgur.com/a/BnDgMsI)
+![InDepthDev3](https://user-images.githubusercontent.com/66951194/179533387-c4703859-85fd-4153-bc3a-0f22e08c0174.gif)
+
 
 ## Phase 1. Create Angular project with embedded data visualization tools
 Create an Angular app by running the following command in the console:
